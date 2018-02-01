@@ -1,3 +1,5 @@
+spring:
+  profiles: default
 wordConfig:
   luckyWord: Irish
   preamble: The lucky word is 
