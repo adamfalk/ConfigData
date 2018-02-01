@@ -1,5 +1,5 @@
 spring:
   profiles: default
 wordConfig:
-  luckyWord: Irish
+  luckyWord: Dave
   preamble: The lucky word is 
